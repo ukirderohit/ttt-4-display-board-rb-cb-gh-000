@@ -7,3 +7,4 @@ def display_board(x)
   puts "-----------"
   puts " #{x[7]} "+"|"+" #{x[8]} "+"|"+" #{x[9]} "
 end
+
